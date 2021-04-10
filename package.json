@@ -1,0 +1,23 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fojanb/jest-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fojanb/jest-unit-testing/issues"
+  },
+  "homepage": "https://github.com/fojanb/jest-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
